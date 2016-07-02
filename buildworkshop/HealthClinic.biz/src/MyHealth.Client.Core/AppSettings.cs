@@ -25,7 +25,7 @@ namespace MyHealth.Client.Core
         public static readonly System.Uri RedirectUri = new System.Uri("urn:ietf:wg:oauth:2.0:oob");
 
         // HockeyApp AppId
-        public static string HockeyAppID = "HOCKEY_APP_ID";
+        public static string HockeyAppID = "e745dd389543430aa115a77c5f8e7ed2";
 
         public static string iOSAppGroupIdentifier = "group.healthclinic.client.patients";
 
